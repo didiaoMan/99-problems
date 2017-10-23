@@ -15,3 +15,5 @@ From the original source:
 * [Java 8](./java8)
 * [Scala](./scala)
 * [Haskell](./haskell)
+## 位置
+http://aperiodic.net/phil/scala/s-99/
